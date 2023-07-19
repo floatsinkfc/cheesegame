@@ -17,7 +17,8 @@ Features:
 
 <img width="629" alt="image" src="https://github.com/floatsinkfc/cheesegame/assets/130110460/532ed71b-4b61-4509-9c35-79fd8b8c6aa7">
 
-<img width="625" alt="image" src="https://github.com/floatsinkfc/cheesegame/assets/130110460/1fb7bc80-6b65-4b09-8b02-d15c8a561c90">
+<img width="625" alt="image" src="https://github.com/floatsinkfc/cheesegame/assets/130110460/ab351056-efc5-4242-bf0d-686ae6c51260">
+
 
 
 This project serves as a demonstration of game development using Python and the Turtle graphics library. It can be used as a starting point for further enhancements and customization.
