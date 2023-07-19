@@ -13,9 +13,11 @@ Features:
 
 
 
-<img width="628" alt="image" src="https://github.com/floatsinkfc/cheesegame/assets/130110460/ac7cc565-0259-4527-8a7a-a06e6d1b4574">
+<img width="628" alt="Screenshot 2023-07-19 152041" src="https://github.com/floatsinkfc/cheesegame/assets/130110460/51e9f2b1-b84a-4b4e-ac4d-672d928b0c97">
 
-<img width="629" alt="image" src="https://github.com/floatsinkfc/cheesegame/assets/130110460/532ed71b-4b61-4509-9c35-79fd8b8c6aa7">
+
+<img width="629" alt="Screenshot 2023-07-19 151803" src="https://github.com/floatsinkfc/cheesegame/assets/130110460/e525db4b-f2e2-45d1-99c0-d519c6d8eddb">
+
 
 <img width="625" alt="image" src="https://github.com/floatsinkfc/cheesegame/assets/130110460/ab351056-efc5-4242-bf0d-686ae6c51260">
 
