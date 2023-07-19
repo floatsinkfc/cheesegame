@@ -15,5 +15,8 @@ This project serves as a demonstration of game development using Python and the 
 Enjoy playing the Cheese Game!
 
 
+<img width="628" alt="image" src="https://github.com/floatsinkfc/cheesegame/assets/130110460/ac7cc565-0259-4527-8a7a-a06e6d1b4574">
 
 <img width="629" alt="image" src="https://github.com/floatsinkfc/cheesegame/assets/130110460/532ed71b-4b61-4509-9c35-79fd8b8c6aa7">
+
+<img width="625" alt="image" src="https://github.com/floatsinkfc/cheesegame/assets/130110460/1fb7bc80-6b65-4b09-8b02-d15c8a561c90">
