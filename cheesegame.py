@@ -1,4 +1,4 @@
-# Cheese Game By Zi Jun Wang
+# Cheese Game By Zi 
 # Inspired By TokyoEdtech on YouTube
 # https://www.youtube.com/watch?v=PTgyzZGknvg&list=PLlEgNdBJEO-n8FdWb-7f_C4dFC07IY9tb&pp=iAQB
 
